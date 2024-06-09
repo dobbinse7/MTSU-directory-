@@ -1,2 +1,2 @@
 # MTSU-directory-
-repository for a project for CSCI 4700
+repository for CSCI 4700
